@@ -10,3 +10,5 @@ import numpy as np
 a = np.array(range(0,10))
 print(a)
 print("Hallo")
+
+print("Schon Wieder Änderung")
